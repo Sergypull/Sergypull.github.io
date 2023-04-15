@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="250"
+   height="250"
+   viewBox="0 0 250 250"
+   sodipodi:docname="logo_energiote.png"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     showguides="true" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g8">
+    <g
+       id="g6206"
+       inkscape:label="Cabeza"
+       style="display:inline;opacity:0.227129"
+       transform="translate(0,-9.5)">
+      <path
+         style="display:inline;opacity:1;fill:#558abb;fill-opacity:1"
+         d="M 164.44532,68.855468 138.86133,43.271484 h -13.10742 v 25.607422 z"
+         id="path6173" />
+      <path
+         style="display:inline;fill:#558abb;fill-opacity:1;stroke-width:0.999998"
+         d="m 87.038,68.853641 25.584,-25.583983 h 13.10742 V 68.87708 Z"
+         id="path6173-3" />
+      <path
+         style="opacity:1;fill:#558abb;fill-opacity:1"
+         d="m 125.65625,43.269531 h 0.26563 V 70 l -1.38913,-0.372216 z"
+         id="path6201" />
+    </g>
+    <g
+       id="g5328"
+       inkscape:label="Pechito"
+       style="display:inline;opacity:0.227129"
+       transform="translate(0,-9.5)">
+      <path
+         style="display:inline;fill:#1a2a36;fill-opacity:1"
+         d="M 125.74144,210.21389 218.381,117.57431 V 103.76796 L 170.69112,56.078068 h -19.02325 l 12.77878,12.778781 h -38.91599 z"
+         id="path3661-8"
+         inkscape:label="path3661-8" />
+      <path
+         style="display:inline;opacity:1;fill:#1a2a36;fill-opacity:1"
+         d="M 125.74493,210.20952 33.105357,117.56994 V 103.76359 L 80.795239,56.073711 h 19.023257 l -12.77878,12.778781 h 38.915994 z"
+         id="path3661" />
+    </g>
+    <g
+       id="g6232"
+       inkscape:label="Cuerpo"
+       style="opacity:0.227129">
+      <path
+         style="display:inline;opacity:1;fill:#558abb;fill-opacity:1"
+         d="m 228.65625,123.42969 -12.81641,-12.81641 -90.09179,90.0918 v 25.63477"
+         id="path5347"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="display:inline;fill:#558abb;fill-opacity:1"
+         d="m 22.840882,123.43277 12.81641,-12.81641 90.091788,90.09181 v 25.63477"
+         id="path5347-0"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <path
+       style="opacity:1;fill:#558abb;fill-opacity:1"
+       d="M 125.0039,226.33594 227.91406,123.42578 215.09961,110.61133 125.00586,200.70508 34.916015,110.61523 22.095703,123.43555 Z"
+       id="path6511" />
+    <path
+       style="opacity:1;fill:#1a2a36;fill-opacity:1"
+       d="m 34.917968,110.62109 -2.55664,-2.55664 V 94.265625 L 80.056577,46.570377 H 99.078125 L 86.298861,59.349641 H 163.70312 L 150.9326,46.579118 h 19.02833 l 47.68115,47.681144 v 13.817868 l -92.63745,92.63744 z"
+       id="path6515" />
+    <path
+       style="opacity:1;fill:#558abb;fill-opacity:1"
+       d="M 150.93359,46.578125 138.13086,33.775391 H 111.875 L 86.299804,59.350586 h 77.407226 z"
+       id="path6519" />
+    <path
+       style="display:none;opacity:1;fill:#558abb;fill-opacity:1"
+       d="m 115,58.5 h 20.0625 V 202.75 H 115 Z"
+       id="path7259" />
+  </g>
+</svg>

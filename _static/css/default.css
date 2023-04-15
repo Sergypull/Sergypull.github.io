@@ -1,0 +1,39 @@
+/* VALORES POR DEFECTO */
+*{
+    padding: 0;
+    margin: 0;
+    font-size: 20px;
+}
+body{
+    background-color: rgb(226, 226, 226);
+}
+h1{
+    font-family: 'Russo One', sans-serif;
+    letter-spacing: 7px;
+    text-shadow: 5px 5px #558ABB;
+    font-size: 2em;
+    color: rgb(26,42,54);
+}
+h2{
+    font-family: 'Orbitron', sans-serif;
+    word-spacing: 0.25em;
+    letter-spacing: 2.5px;
+    font-size: 1em;
+}
+p{
+    font-family: 'Gemunu Libre', sans-serif;
+}
+b{
+    text-transform: uppercase;
+}
+.logo_energiote{
+    height: 75px;
+    width: 75px;
+}
+/* Estructura de la web */
+#box_tittle{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(133, 171, 204);
+}
